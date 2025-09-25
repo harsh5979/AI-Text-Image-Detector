@@ -53,9 +53,9 @@ npm run dev
 ### 🖼️ Image Analysis
 
 ## 1. image Analysis
-![Image Analysis UI](./screenshots/image-analysis.png)
+![Image Analysis UI](./screenshots/image-Analysis.png)
 
 ## 2. Text Analysis
-![Image Analysis UI](./screenshots/text-analysis.png)
+![Image Analysis UI](./screenshots/text-Analysis.png)
 
 
